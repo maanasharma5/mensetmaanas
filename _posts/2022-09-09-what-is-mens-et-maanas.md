@@ -8,7 +8,7 @@ tags:
   - serious
 ---
 
-There's so much I want to talk about in this post -- my first post! But, I will try to stay as close to the title as possible.
+There's so much I want to talk about in this post -- my first post! But, I will try to stay as close to answering the title question as possible.
 
 What. is. mens. et. maanas. ?.
 
@@ -18,7 +18,7 @@ I've had my name for 18 years now, but I never devised a clever way to help peop
 
 I grew to quite like this pun-of-sorts. It connected me to my school and community, was practical, and slightly funny. Plus, _manasa_ in Sanskrit means "mind" so I'm basically saying "mind and mind" -- a half inside joke I enjoy as well.
 
-But, in the context of this website -- the unweildy maanasharma5.github.io/blog -- "mens et maanas" is what I chose to type into the title box in Github fifteen minutes ago. 
+But, in the context of this website -- the unweildy maanasharma5.github.io/blog [^1] -- "mens et maanas" is what I chose to type into the title box in Github fifteen minutes ago. 
 
 It's a clean summary of what I plan to do here. I was recently rejected from the MIT Admissions Blogging team, which was saddening, but I stand by my desire to blog. Writing helps me process my emotions, and I enjoy sharing things with the world! Petey told me it's important to try and keep writing at MIT because MIT life is hard, so I'm here trying. Writing by myself is more difficult -- I have to learn how Github works, and Markdown, and there's no money that comes with, but as a wise upperclassmen told me, "PNR is a lifestyle" and I intend to make the most of it this year, pushing myself to do difficult (but important and maybe fun) things. Plus, I'd be lying if I said I didn't hope this might help me get accepted as an Admissions Blogger at some point. I came into MIT with only 3rd concrete goals: become a Blogger, learn how to fly, and hypothetically get a degree.
 
@@ -26,3 +26,5 @@ So, _mens et maanas_ will be my space to talk about MIT and me, other people and
 
 Love always,
 MKS
+
+[^1] As you can probably see, this is now changed to the much prettier :stars: mensetmaanas.com :stars:
