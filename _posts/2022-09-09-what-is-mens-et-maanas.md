@@ -27,4 +27,4 @@ So, _mens et maanas_ will be my space to talk about MIT and me, other people and
 Love always,
 MKS
 
-[^1] As you can probably see, this is now changed to the much prettier :stars: mensetmaanas.com :stars:
+[^1]: As you can probably see, this is now changed to the much prettier :stars: mensetmaanas.com :stars:
