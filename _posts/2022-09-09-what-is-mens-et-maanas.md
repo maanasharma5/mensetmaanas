@@ -1,5 +1,5 @@
 ---
-title: "what is mens et maanas"
+title: "what is mens et maanas?"
 date: 2022-09-09
 categories:
   - blog
