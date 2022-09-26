@@ -1,6 +1,6 @@
 MIT is a lot.
 
-The rest of this blog post to come.
+The rest of this blog post is soon to come.
 
 //moose
 
