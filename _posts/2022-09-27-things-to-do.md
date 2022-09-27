@@ -1,3 +1,12 @@
+---
+title: "things to do, so many things to do..."
+date: 2022-09-27
+categories:
+  - blog
+tags:
+  - freshman
+  - serious
+---
 MIT is a lot.
 
 I knew that coming in -- it's a huge part of why I chose this school. I knew I wanted my college experience to be intellectually challenging and allow me to explore hard questions. (Of course, at least as much of my decision was also due to the incredible community I found while visiting.) I spent hours scrolling through the MIT course catalog when I first got in, adding courses I hoped to take during my time here to a spreadsheet that quickly grew to hundreds of entries. I craved to spend my entire life studying at MIT. 
