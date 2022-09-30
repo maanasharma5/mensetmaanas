@@ -1,3 +1,12 @@
+---
+title: "GET A GRIP MAANAS!!!"
+date: 2022-09-30
+categories:
+  - blog
+tags:
+  - freshman
+  - funny
+---
 So this is a, um, very quick update to my last blog post.
 
 Turns out, things ended up resolving themselves very nicely, very quickly. I was granted my wish of turning up the pressure on the firehose -- which probably means y'all are going to be treated to many more instances of "overworked, slightly crazy maanas blogging when he should instead be fixing his life." Hope you like it!
