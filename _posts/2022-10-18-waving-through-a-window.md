@@ -26,7 +26,7 @@ If Evan Hansen’s thing is trees, mine is flying. From the constantly-yelling T
 
 Terminal D is the hub of this all: DFW’s international terminal, where my excitement bubbles over as the trek begins. I can picture each inch of this space in crystal clarity[^4], and most of it looked the same when I returned. In fact, our gate was the same one it had been for the three previous trips that I could remember. My favorite hallmark of the atrium, however, the Einstein Bros Bagels, had shut down. My brother and I replaced the tradition with Auntie Anne’s pretzels instead. It was good, as Auntie Anne’s always is, but I longed for the comfortable nostalgia of hurriedly munching down on Einstein Bros’ Everything Bagel with Butter.
 
-
+</br>
 
 **Yesterday**, I entered an Airbus A380[^5] for the first time ever. 
 
@@ -34,7 +34,7 @@ For the first leg of our trip, from Dallas-Fort Worth to London Heathrow, Britis
 
 As we started cruising, we returned to the traditions. First, a synchronized movie watch on the TVs. Our choice this time was the 1992 romance/drama _The Bodyguard_ featuring Whitney Houston who, in my brother’s words, “has some serious pipes.” My dad fell asleep in the last stretch of the movie—like always. Right before he slept, however, we checked off the final one of our flight rituals: messed up vegetarian meal orders. I actually smiled as it happened. Even as so much is changing in my life[^8], I’ve come to view this incompetency is a rare form of constancy in the world—a never-changing source of (dis)comfort. After dinner, everybody headed to sleep, and I realized just how quiet the A380’s cabin is: the usual drone of the engine was replaced by the loud snores of the person behind me. Unable to sleep, I walked around and marveled at the second floor of the plane and appreciated the extremely tall cabin. (A few[^9] hours later, aboard the Boeing 787 Dreamliner from London to Mumbai, when my head bumped the top of the cabin while standing up, my appreciation for the A380 only redoubled).
 
-
+</br>
 
 **Yesterday**, I stared out at the clouds, 39,000 feet in the air.
 
@@ -52,13 +52,13 @@ Master Oogway once [said](https://www.youtube.com/watch?v=CPDwzCevL7s) “Today 
 
 So.
 
-
+</br>
 
 **Yesterday**[^13], I landed at the Chhatrapati Shivaji Maharaj International Airport, Mumbai.
 
 The loud snores were replaced by the incessant sounds of honking—the bellowing souls of 1.4 billion people.
 
-
+</br>
 
 **Yesterday**, I sat on a plane, waving through a window. Not at the bag carrier on the ground below, but at the freshly-18, still-kid shimmering in the reflection. It’s something that will never happen exactly like this again. But that’s okay—maybe even good.
 
