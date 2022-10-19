@@ -8,7 +8,7 @@ tags:
   - serious
 ---
 
-Yesterday, I was on a coffee chat with a friend in SBC [^1] and she asked me about why I joined. The details of my actual answer are slightly irrelevant -- though they may make an appearance on this website at some point or another -- but I somehow ended up talking about how much I love airplanes. I said, "I even wrote a blog about them! I should totally publish it so you can read it!" Well, here I am, sitting in an abandoned room in building 6C, attempting to procastinate on the mountain of work that waits for me by doing something that is like mildly, hypothetically productive, publishing said blog piece. I wrote this for my application to be an admissions blogger earlier this summer, so the timing is completely off but I hope you enjoy this little flashback of sorts.
+**Yesterday**, I was on a coffee chat with a friend in SBC [^1] and she asked me about why I joined. The details of my actual answer are slightly irrelevant -- though they may make an appearance on this website at some point or another -- but I somehow ended up talking about how much I love airplanes. I said, "I even wrote a blog about them! I should totally publish it so you can read it!" Well, here I am, sitting in an abandoned room in building 6C, attempting to procastinate on the mountain of work that waits for me by doing something that is like mildly, hypothetically productive, publishing said blog piece. I wrote this for my application to be an admissions blogger earlier this summer, so the timing is completely off but I hope you enjoy this little flashback of sorts.
 
 <p align="center">
   ***
@@ -18,17 +18,23 @@ Yesterday, I was on a coffee chat with a friend in SBC [^1] and she asked me abo
 
 🎶 Cause I’m tap, tap, tapping on the glass, I’m [waving through a window](https://en.wikipedia.org/wiki/Waving_Through_a_Window)
 
+
+
 **Yesterday**, for the first time in 5 years, I stepped into Terminal D of the Dallas-Fort Worth International Airport.
 
 If Evan Hansen’s thing is trees, mine is flying. From the constantly-yelling TSA agents to bland airplane food[^2], even flying’s most mundane minutiae bring me immeasurable joy. I’ve spent hours catapulting between Wikipedia articles on the [flying vehicles that grace our skies](https://www.youtube.com/watch?v=byEHjIpVt2A) and YouTube flight reviews of $20,000-voyages I’ll probably never take in my life. Every single journey I’ve made on a plane are among my most cherished experiences, but among all of these—no matter what—my favorite is going back with my family to visit India[^3]. 
 
 Terminal D is the hub of this all: DFW’s international terminal, where my excitement bubbles over as the trek begins. I can picture each inch of this space in crystal clarity[^4], and most of it looked the same when I returned. In fact, our gate was the same one it had been for the three previous trips that I could remember. My favorite hallmark of the atrium, however, the Einstein Bros Bagels, had shut down. My brother and I replaced the tradition with Auntie Anne’s pretzels instead. It was good, as Auntie Anne’s always is, but I longed for the comfortable nostalgia of hurriedly munching down on Einstein Bros’ Everything Bagel with Butter.
 
+
+
 **Yesterday**, I entered an Airbus A380[^5] for the first time ever. 
 
 For the first leg of our trip, from Dallas-Fort Worth to London Heathrow, British Airways had brought back the superjumbo-jet to meet rapidly rising demand[^6]. I was literally tingling during boarding, and it. was. magnificent. The plane was even bigger than I could ever imagine, dwarfing the 777[^7] beside it at the gate. Nevertheless, with the help of four (!!!) boarding bridges spread across two gates, the plane was boarded in record time. Upon take off, I was taken by how _ginormous_ the wings and the extended wing flaps were. Despite the larger-than-customary windows, my entire view was practically just the wing. 
 
 As we started cruising, we returned to the traditions. First, a synchronized movie watch on the TVs. Our choice this time was the 1992 romance/drama _The Bodyguard_ featuring Whitney Houston who, in my brother’s words, “has some serious pipes.” My dad fell asleep in the last stretch of the movie—like always. Right before he slept, however, we checked off the final one of our flight rituals: messed up vegetarian meal orders. I actually smiled as it happened. Even as so much is changing in my life[^8], I’ve come to view this incompetency is a rare form of constancy in the world—a never-changing source of (dis)comfort. After dinner, everybody headed to sleep, and I realized just how quiet the A380’s cabin is: the usual drone of the engine was replaced by the loud snores of the person behind me. Unable to sleep, I walked around and marveled at the second floor of the plane and appreciated the extremely tall cabin. (A few[^9] hours later, aboard the Boeing 787 Dreamliner from London to Mumbai, when my head bumped the top of the cabin while standing up, my appreciation for the A380 only redoubled).
+
+
 
 **Yesterday**, I stared out at the clouds, 39,000 feet in the air.
 
@@ -46,9 +52,13 @@ Master Oogway once [said](https://www.youtube.com/watch?v=CPDwzCevL7s) “Today 
 
 So.
 
+
+
 **Yesterday**[^13], I landed at the Chhatrapati Shivaji Maharaj International Airport, Mumbai.
 
 The loud snores were replaced by the incessant sounds of honking—the bellowing souls of 1.4 billion people.
+
+
 
 **Yesterday**, I sat on a plane, waving through a window. Not at the bag carrier on the ground below, but at the freshly-18, still-kid shimmering in the reflection. It’s something that will never happen exactly like this again. But that’s okay—maybe even good.
 
