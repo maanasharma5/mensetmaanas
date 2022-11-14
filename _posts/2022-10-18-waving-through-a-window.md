@@ -8,7 +8,7 @@ tags:
   - serious
 ---
 
-**Yesterday**, I was on a coffee chat with a friend in SBC [^1] and she asked me about why I joined. The details of my actual answer are slightly irrelevant -- though they may make an appearance on this website at some point or another -- but I somehow ended up talking about how much I love airplanes. I said, "I even wrote a blog about them! I should totally publish it so you can read it!" Well, here I am, sitting in an abandoned room in building 6C, attempting to procastinate on the mountain of work that waits for me by doing something that is like mildly, hypothetically productive, publishing said blog piece. I wrote this for my application to be an admissions blogger earlier this summer, so the timing is completely off but I hope you enjoy this little flashback of sorts.
+**Yesterday**, I was on a coffee chat with a friend in SBC [^1] and she asked me about why I joined. The details of my actual answer are slightly irrelevant -- though they may make an appearance on this website at some point or another -- but I somehow ended up talking about how much I love airplanes. I said, "I even wrote a blog about them! I should totally publish it so you can read it!" Well, here I am, sitting in an abandoned room in building 6C, attempting to procastinate on the mountain of work that waits for me by doing something that is like mildly, hypothetically productive: publishing said blog piece. I wrote this for my application to be an admissions blogger earlier this summer, so the timing is completely off but I hope you enjoy this little flashback of sorts.
 
 <p align="center">
   ***
