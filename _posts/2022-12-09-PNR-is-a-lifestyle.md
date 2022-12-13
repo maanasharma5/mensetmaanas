@@ -6,6 +6,7 @@ categories:
 tags:
   - serious
   - academics
+  - freshman
 ---
 
 recently i've been really grateful for PNR [^1], but i feel kind of shitty about the way i've taken advantage of it. PNR was created to help ease freshmen ease into the difficulty of MIT -- any failed classes have no repercussions and letter grades can't bring your GPA down --  but i've felt really quite "well-prepared" for mit. by this i mean that i had the immense of privilege with coming in with credit for some of the GIRs and having experience with some of the classes im taking right now (like multivariable calculus, discrete math, and chemistry), which has made them much easier than they would be otherwise. of course, i think every mit student is capable of doing well at mit, i just know that i've had less of an uphill climb this semester. as a result, i've been able to enjoy PNR without any of the all-so-common crises about passing a class and instead use it to ignore a pset when i'd rather not do it.
