@@ -50,7 +50,7 @@ My rating: 4.5/5[^5]
 
 [^1]: I’m going to keep spelling theatre like theatre because my middle school drama teacher told me that theat*re* means the art and theat*er* means the physical building and I’d trust her with my life.
 [^2]: This show was pretty enjoyable but it lacked the oomph factor I generally look for in theatre.
-[^3]: As I said before, I think the show itself is pretty damn perfect. However, I deducted half a star due to the production casting several white actors in the show, which I and much of the theatre community believe to be antithetical to the message and intention of the show. Aside from that, most of the performances were steller, although the orchestra and choreography was just okay, but I still really enjoyed the show.
+[^3]: As I said before, I think the show itself is pretty damn perfect. However, I deducted half a star due to the production casting several white actors in the show, which I and much of the theatre community believe to be antithetical to the message and intention of the show. Aside from that, most of the performances were steller, although the orchestra and choreography was just okay, and I still really enjoyed the show.
 [^4]: Yes, this isn’t a musical but whatever still it’s close enough
 [^5]: I *really* enjoyed this show. I was pleasantly surprised by how incredibly Lolita Chakrabarti and the creative team were able to show the mystical events on stage through the puppetry, lighting design, and set design. The cast were also incredible and seeing authentic South Asian characters was quite refreshing. I took slight issue with the pacing of the show, because the second half is quite dense philosophically, but I appreciated why Chakrabarti made the decisions she did.
 
