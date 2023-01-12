@@ -1,11 +1,11 @@
 ---
-title: Classes in Review: Semester One
+title: a midnight drive
 date: 2023-01-12
 categories:
- - blog
+  - blog
 tags:
- - freshman
- - classes
+  - freshman
+  - classes
 ---
 
 Earlier today[^1], I checked Websis to see if my classes had released grades[^2] and I realized that I should write the classic, straightforward “What Classes I Took This Semester” blog post. Generally, I really enjoyed all my classes this semester, but I’ll go into more detail below!
