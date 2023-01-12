@@ -1,5 +1,5 @@
 ---
-title: Classes in Review\: Semester One
+title: "Classes in Review: Semester One"
 date: 2023-01-12
 categories:
   - blog
