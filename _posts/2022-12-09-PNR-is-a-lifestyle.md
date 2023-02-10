@@ -1,6 +1,7 @@
 ---
 title: "PNR is a lifestyle …"
 date: 2022-12-09
+excerpt: "the freshman experiment, as experienced by a freshman"
 categories:
   - blog
 tags:
