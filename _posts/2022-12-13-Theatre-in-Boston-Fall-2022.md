@@ -6,6 +6,7 @@ categories:
   - blog
 tags:
   - freshman
+  - theatre
 ---
 
 If you know me, you know I love musical theatre[^1]. Showtunes was my second most listened to genre last year and I will gladly spend all of my money on (and probably go into debt for) seeing musicals. I live for the experience of having a dozen of the best artists in the world on stage at once sharing their craft with me, aided by dozens of more artists behind the scenes. I especially love live theatre because of the way vocals soar in a theater and you can hear all the minute details of the orchestra roar in your ears in a way that recordings can never capture.
