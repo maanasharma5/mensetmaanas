@@ -1,6 +1,7 @@
 ---
 title: "waving through a window"
 date: 2022-10-18
+excerpt: "a normal flight? with an emotionally fragile post-high school, pre-college student? no way."
 categories:
   - blog
 tags:
