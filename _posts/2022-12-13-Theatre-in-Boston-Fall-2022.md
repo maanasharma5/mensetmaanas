@@ -20,7 +20,7 @@ Without further adieu,
 **#1:** *Sing Street*, The Huntington Theatre Company
 
 <img src="/assets/images/Photo 2022-08-26, 7 54 38 PM.jpg"
-     style="display: inline-block; margin: 0 auto; max-width: 100px">
+     style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Sing Street* is a musical based on the film of the same name that was helmed by a pretty star-studded creative team. It takes place in 1980s Ireland following a shy boy’s attempt to impress a girl by forming a band and exploring its impacts on the relationships and people surrounding him. It was set to begin performances on Broadway in 2020, but was shut down by COVID-19 before it ever did. So, in 2022, the show was revived for a second pre-Broadway production in Boston with a new cast and some minor changes.
 
@@ -31,7 +31,7 @@ My rating: 3.5/5[^2]
 **#2:** *In The Heights*, Harvard TEATRO!
 
 <img src="/assets/images/Photo 2022-10-22, 2 06 12 PM.jpg"
-     style="display: inline-block; margin: 0 auto; max-width: 100px">
+     style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *In The Heights* is Lin Manuel Miranda’s first musical that won four Tony awards when it premiered on Broadway in 2008. The show follows a tight-knit group of characters in the largely Hispanic, working-class neighborhood of Washington Heights in New York for the course of three (action-packed) days. 
 
@@ -42,7 +42,7 @@ My rating: 4.5/5[^3]
 **#3:** *Life of Pi*, American Repertory Theatre
 
 <img src="/assets/images/Photo 2022-12-11, 7 20 09 PM.jpg"
-     style="display: inline-block; margin: 0 auto; max-width: 100px">
+     style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Life of Pi* made its North American debut at the American Repertory Theatre, a Cambridge-based nonprofit theater that has won a Pulitzer Prize and four Tony Awards. The play[^4] is a newly reimagined version of the classic novel that recently won five Olivier Awards on London’s West End. It was renowned for its innovative use of puppetry and effective portrayal of the fantastical story, and the A.R.T. production is a short tryout before a transfer to Broadway.
 
