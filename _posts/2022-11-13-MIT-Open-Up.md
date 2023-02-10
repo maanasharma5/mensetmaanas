@@ -1,6 +1,7 @@
 ---
 title: "''MIT! Open Up!'' Ramblings on the Admissions Interview"
 date: 2022-11-13
+excerpt: "a timely guide to *chill* with a plan for aspiring prefrosh"
 categories:
   - blog
 tags:
