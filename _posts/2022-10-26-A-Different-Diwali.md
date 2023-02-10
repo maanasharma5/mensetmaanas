@@ -1,6 +1,7 @@
 ---
 title: "A Different Diwali"
 date: 2022-10-26
+excerpt: "feeling feelings 1785 miles from home"
 categories:
   - blog
 tags:
