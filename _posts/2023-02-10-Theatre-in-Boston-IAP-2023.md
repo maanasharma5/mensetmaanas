@@ -18,7 +18,8 @@ Without further adieu,
 
 **#1:** *Preludes*, Lyric Stage Company of Boston
 
-insert image
+<img src="/assets/images/Photo 2023-01-18, 7 08 38 PM.jpg"
+     style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Preludes* is a musical brainchild of Dave Malloy, Tony-nominated playwright and composer known for his experimental methods and inspiration from historical sources. It follows Russian composer Rachmaninoff as he struggles to get over his writer’s block after an ill-received first symphony. It is not a super famous musical by any means, but was very well-received in its first off-Broadway run, and I am a *ginormous* fan of Rachmaninoff (and especially his set of piano preludes, which gave the show its name) so I really wanted to see the show. With the Lyric Stage Company’s generous student discounts, there were plenty of affordable options to see the show.
 
@@ -26,7 +27,8 @@ My rating: 3/5[^3]
 
 **#2:** *Jagged Little Pill*, Touring at the Providence Performing Arts Center
 
-insert image
+<img src="/assets/images/Photo 2023-01-22, 2 38 08 PM.jpg"
+     style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Jagged Little Pill* is a musical that follows a suburban Connecticut family as they struggle through a number of issues including opioid addiction, gender and sexuality, sexual assault, and racism, with its music coming from Alanis Morissette’s groundbreaking rock album of the same name. And, as you may have already noticed, this show was not in Boston at all. *Jagged Little Pill* is one of those musicals that I have wanted to see for a long time; I really enjoy its cast album but it’s clear that seeing it live would inspire a completely different experience. As such, when I heard its tour was coming to Providence, I immediately planned a short day trip on the commuter rail and bought tickets. Unfortunately, there are usually few discount options for touring productions, and I had to pay full price for a second mezzanine ticket[^4]. Nonetheless, the seat was good, with great sight lines and sound in one of the most beautiful stunning theaters I’ve ever seen.
 
@@ -34,7 +36,8 @@ My rating: 4.5/5[^5]
 
 **#3:** *Kimberly Akimbo*, Booth Theatre (Broadway)
 
-insert image
+<img src="/assets/images/Photo 2023-01-31, 6 46 48 PM.jpg"
+     style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Kimberly Akimbo* blends the two extremes of the human experience, following the story of a teenage girl who suffers from a disease that ages her at 4.5 times the normal rate as she seeks to find happiness in the face of her disease, family problems, and loneliness. The show is new on Broadway this season, after an award-winning off-Broadway run, and I wanted to see it before the Tony Awards (when it will likely get a boost in popularity). The cast recording hasn’t even been released for the show, so I had little idea what I was getting into, but tickets were not too expensive and I’d been wanting to visit New York during IAP for a long time so I finally went in the last week of January. It was well worth it.
 
