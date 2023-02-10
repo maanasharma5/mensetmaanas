@@ -1,6 +1,7 @@
 ---
-title: "Theatre in Boston: Semester One"
+title: "Theatre in Boston: Fall 2022"
 date: 2022-12-13
+excerpt: "unsolicited (and unqualified) reviews on the live theatre i consumed this semester"
 categories:
   - blog
 tags:
