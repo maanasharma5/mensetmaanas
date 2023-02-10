@@ -3,13 +3,13 @@ title: "Classes in Review: Semester One"
 date: 2023-01-12
 categories:
   - blog
-excerpt: "this is a test excerpt"
+excerpt: "spilling the tea on the one and only PNR semester at MIT"
 tags:
   - freshman
   - classes
 ---
 
-test updated. Earlier today[^1], I checked Websis to see if my classes had released grades[^2] and I realized that I should write the classic, straightforward “What Classes I Took This Semester” blog post. Generally, I really enjoyed all my classes this semester, but I’ll go into more detail below!
+Earlier today[^1], I checked Websis to see if my classes had released grades[^2] and I realized that I should write the classic, straightforward “What Classes I Took This Semester” blog post. Generally, I really enjoyed all my classes this semester, but I’ll go into more detail below!
 
 **Prior Credit**
 These aren’t exactly classes that I *took* this semester, but they show up on this semester’s grade report and it’s pretty important information to include so I’m including it anyway.
