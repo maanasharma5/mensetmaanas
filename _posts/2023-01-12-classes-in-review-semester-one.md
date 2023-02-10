@@ -3,6 +3,7 @@ title: "Classes in Review: Semester One"
 date: 2023-01-12
 categories:
   - blog
+excerpt: "this is a test excerpt"
 tags:
   - freshman
   - classes
