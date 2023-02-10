@@ -1,6 +1,7 @@
 ---
 title: a midnight drive
 date: 2023-01-02
+excerpt: "on letting go at the wheel."
 categories:
   - blog
 tags:
