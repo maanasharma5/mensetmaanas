@@ -8,6 +8,7 @@ tags:
   - freshman
   - classes
   - gov
+  - serious
 ---
 
 
