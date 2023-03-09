@@ -1,5 +1,6 @@
 ---
 title: a randomly decided to blog my day
+excerpt: "a sorry substitute for a sexy introspective piece i can't write right now"
 date: 2023-03-09
 categories:
   - blog
