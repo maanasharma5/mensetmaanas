@@ -14,6 +14,12 @@ tags:
 
 **it’s 11:41 pm right now** and i’m sitting in the BC TV Lounge writing this blog post. a couple of minutes ago, i was laying down, thinking of the work i have left for the day and i had the jarring realization that i hadn’t blogged in a long while. yesterday i was talking to a friend about just how quickly 3 weeks of non-PNR life at MIT has aged me. from planning cpw for the soon-to-be frosh at my dorm to finally having to worry about grades, i truly feel more like a sophomore right now than i do a freshman. in particular, the never-ending firehose of work has kept me from blogging because any time i have free time nowadays, i choose to spend it hanging out with friends or watching tv in my bed -- two of my biggest comfort activities -- and blogging is relegated onto the long list of things i want to do when (if) i find time and the willpower. but it’s been a month and i haven’t found any willpower. i also know that i really really want to be an admissions blogger, and showing that i can keep a routine is a big part of that. so, at 11:21 tonight, i decided that i should post something. it might not be the most beautiful thing i’ve ever written, or even maybe good at all, but i told myself i would write something. the first thing that came to my mind was a step-by-step walkthrough of my day, so here i am, plopping my consciousness down unfiltered onto your screen…
 
+<p align="center">
+
+...
+
+</p>
+
 **it’s 8:30 am right now** and i just went to bed about 4 hours ago. i missed my first (round of) alarm(s) so i’m scrambling to the bathroom to get ready to go to class. it’s 14.03 [^1] and i could probably get away with not attending lecture, but i really like the topics of the class and i’ve been trying to get out of the habit of skipping class, so i walk to stata. i pick up a coffee on the way, and down half of it in one big chug.
 
 **it’s 11:30 am right now** and i’m scribbling “these are fascinating questions of urban economics -- look into this” on my notepage for 11.001 [^2] as my professor talks about shopping centers, and urban environments, and catchment areas. i also love this class, but i know i’m never actually going to look more into these topics. when the weekend rolls around, all i’m going to want to do is aggressively relax. i probably deserve it -- but then when will i ever have the chance to explore the (hard) things i want to do?
