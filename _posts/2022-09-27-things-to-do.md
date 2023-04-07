@@ -6,6 +6,7 @@ categories:
 tags:
   - freshman
   - serious
+  - bombers
 ---
 MIT is a lot.
 
