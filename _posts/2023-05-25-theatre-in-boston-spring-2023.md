@@ -25,7 +25,7 @@ My rating: 4/5[^3]
 
 **#2:** *Wicked*, Gershwin Theatre (Broadway)
 
-<img src="/assets/images/IMG_0549.jpg"
+<img src="/assets/images/IMG_0549.JPG"
      style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 I think everybody (or, rather, many many people) know about *Wicked*. It is the second-highest grossing musical in Broadway history, launched Idina Menzel and Kristin Chenoweth to fame, and has been a staple of the Broadway experience for tourists for decades. Given that, however, I'd actually never paid too much attention to the show. Of course, I'd heard (and loved) the standout musical numbers of the show, but the plot didn't interest me as much. Also given how expensive tickets usually are, the fact that it will likely run for at least another decade, and that my consumption of Broadway shows is quite limited, I'd never sought to see it.
@@ -38,7 +38,7 @@ My rating: 4.5/5[^5]
 
 **#3:** *The Jungle*, St. Ann's Warehouse (Off-Broadway)
 
-<img src="/assets/images/IMG_0835.jpg"
+<img src="/assets/images/IMG_0835.JPG"
      style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *The Jungle* is the most unique and impactful show I have ever had the privilege of seeing. I was in tears during the show, in bed after, and have even spontaneously teared up thinking about it months later. At the risk of sounding pretentious, I continue to think of it not as a show, but as an experience.
@@ -60,7 +60,7 @@ My rating: 4.5/5[^8]
 
 **#5:** *Angels in America: A Gay Fantasia on National Themes: Part One: Millenium Approaches*, Central Square Theater
 
-<img src="/assets/images/IMG_2444.jpg"
+<img src="/assets/images/IMG_2444.JPG"
      style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Angels in America* is one of those foundational works of modern, especially modern political and modern queer, theatre. It is also, because I have no formal education in theatre and only became interested in it halfway through highschool, one that I had never heard about. However, when one of my classmates mentioned watching it just up Mass. Ave. at the Central Square Theatre (with a great student discount) I bought tickets immediately. Only after buying tickets did I learn how important the work was in gay representation in drama, and, although I am glad I now know about the show, I am not necessarily its biggest fan. (Side note: this is why I so desperately want to take a class on modern political/{racial, ethnic, queer, gendered} theatre)
@@ -69,7 +69,7 @@ My rating: 3.5/5[^9] (oop)
 
 **#6:** *Evita*, American Repertory Theater
 
-<img src="/assets/images/IMG_0835.jpg"
+<img src="/assets/images/IMG_0835.JPG"
      style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Evita* is the popular Andrew Lloyd Webber musical based on the First Lady of Argentina Eva Peron and her life. I'd heard rumblings about the revival of *Evita* at the ART on TikTok for months, and people were quite excited for it. As with many ART revivals, the show was expected to go to Broadway, so I wanted to take advantage of ART's great student pricing to check it out here in Cambridge! This production was put on with lots of background research on Eva Peron's life and legacy in Argentina and more integration of the Argentinian culture, including professional tango dancers and an all-Latine cast. Ultimately, though, I was not a huge fan.
