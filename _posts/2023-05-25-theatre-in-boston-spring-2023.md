@@ -69,7 +69,7 @@ My rating: 3.5/5[^9] (oop)
 
 **#6:** *Evita*, American Repertory Theater
 
-<img src="/assets/images/IMG_0835.JPG"
+<img src="/assets/images/IMG_2644.JPG"
      style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Evita* is the popular Andrew Lloyd Webber musical based on the First Lady of Argentina Eva Peron and her life. I'd heard rumblings about the revival of *Evita* at the ART on TikTok for months, and people were quite excited for it. As with many ART revivals, the show was expected to go to Broadway, so I wanted to take advantage of ART's great student pricing to check it out here in Cambridge! This production was put on with lots of background research on Eva Peron's life and legacy in Argentina and more integration of the Argentinian culture, including professional tango dancers and an all-Latine cast. Ultimately, though, I was not a huge fan.
