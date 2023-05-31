@@ -16,7 +16,7 @@ well, let's get started!
 
 **#1:** *Heathers: The Musical*, MIT Musical Theatre Guild
 
-<img src="/assets/images/IMG_0495.jpg"
+<img src="/assets/images/IMG_0495.JPG"
      style="display: inline-block; margin: 0 auto; max-width: 250px">
 
 *Heathers* is a musical adaptation of the older teen dark comedy movie of the same name. It's well known in the (teenage) musical theatre community for having an absolute banger of a cast recording but never making it to Broadway[^2]. Although I had a pretty good idea of all the plot points of the show from the cast recording and just *life* I was still really excited to see it in person for the first time. I was also looking forward to my first MTG show. I respect the hell out of the cast, crew, and orchestra for putting so much time into the show even when MIT gets so busy.
