@@ -60,22 +60,22 @@ plugins:
 author:
   name   : "Maanas Sharma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "First-year student at MIT trying his hand at oversharing on the internet."
+  bio    : "a wip"
 
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      classes: wide
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  #     classes: wide
   # _pages
   - scope:
       path: "_pages"
